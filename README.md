@@ -2,7 +2,7 @@
 A compilation of data-informed articles on the novel coronavirus, focusing on impacts/strategies for public health, with careful consideration to source credibility.
 
 ### Instructions for pull requests
-  To contribute to this compilation of resources by submitting a pull request. 
+  To contribute to this compilation of resources, please submit a pull request. 
   You request should contain four things:
   1) The title of the article you're sharing.
   2) The source of the article as well as the credentials/affiliation of the author(s).
