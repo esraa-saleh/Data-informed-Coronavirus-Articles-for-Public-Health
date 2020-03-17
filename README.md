@@ -1,5 +1,5 @@
 # Data-informed-Coronavirus-Articles-for-Public-Health
-A compilation of data-informed articles on the novel coronavirus, focusing on impacts/strategies for public health, with careful consideration to source credibility.
+A compilation of data-informed articles on the novel coronavirus, focusing on impacts/strategies for public health, with careful consideration to source credibility. Although scientific journal articles are cool and I'll add some, I would like to focus efforts on good quality material that is accessible and readable for those who are not subject matter experts. I encourage contributions that contain intuitive explanations and interactive demonstrations of relevant concepts (e.g. social distancing).
 
 ### Instructions for pull requests
   To contribute to this compilation of resources, please submit a pull request. 
