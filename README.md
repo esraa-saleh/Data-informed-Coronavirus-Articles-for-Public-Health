@@ -25,6 +25,12 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
     <td class="tg-yw4l">https://scratch.mit.edu/projects/376656449/?fbclid=IwAR3XUF_iUswPuIydgZB9AUVfLElFHxgPIxsDwQOmD3vjI3FoMBXjuPupYDE</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve</td>
+    <td class="tg-yw4l">Washington Post, Harry Stevens, Graphics reporter, MS in Journalism</td>
+    <td class="tg-yw4l">An intutitive animated demonstration of disease spread and flattening the curve</td>
+    <td class="tg-yw4l">https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR1TUSfRZlzZzDTImeptdU7LKcSNPsz3_rVfBjuYWbxiRneDdO1oOhsKj7Q</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">   </td>
     <td class="tg-yw4l">   </td>
     <td class="tg-yw4l">   </td>
