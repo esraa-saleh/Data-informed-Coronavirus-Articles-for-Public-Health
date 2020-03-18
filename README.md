@@ -42,14 +42,21 @@ Click on the title to be redirected to its corresponding article.
         </div>
       </a>
     </td>
-    <td class="tg-yw4l">Washington Post, Harry Stevens, Graphics reporter, MS in Journalism</td>
+    <td class="tg-yw4l">Harry Stevens, Graphics reporter at Washington Post, MS in Journalism</td>
     <td class="tg-yw4l">An intutitive animated demonstration of disease spread and flattening the curve</td>
     </td>
   </tr>
   <tr>
-    <td class="tg-yw4l">   </td>
-    <td class="tg-yw4l">   </td>
-    <td class="tg-yw4l">   </td>
+    <td class="tg-yw4l">
+      <a href="https://towardsdatascience.com/should-i-go-to-brunch-an-interactive-tool-for-covid-19-curve-flattening-6ab6a914af0">
+        <div style="height:100%;width:100%">
+          Should I go to brunch? An interactive tool for COVID-19 curve flattening
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l">Archy de Berker, Applied Research Scientist at Element AI, PhD in Neuroscience </td>
+    <td class="tg-yw4l">Introduces and gives a link to an interactive tool to help visualize the impact of social distancing</td>
+    </td>
   </tr>
 </table>
 
