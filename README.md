@@ -9,7 +9,7 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
   3) A link to the article you'd like to share.
   4) A brief 1-2 sentences description of the subject matter covered in the article.
   
-  The table is in HTML. Note that you don't need to code to contribute! (although that would be nice)
+  The table is in HTML. Note that you don't need to code to contribute! (although that would be nice).
   You may simply write up the items above in a pull request in plain text.
   
 ## Article Compilation
