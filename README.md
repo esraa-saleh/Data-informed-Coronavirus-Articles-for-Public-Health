@@ -15,14 +15,14 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
   <tr>
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Source</b></th>
-    <th class="tg-yw4l"><b>Link</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Link</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l">Epidemic Simulation</td>
     <td class="tg-yw4l">Mitch Resnick, Professor of Learning Research at MIT Media Lab, PhD in Computer Science</td>
-    <td class="tg-yw4l">https://scratch.mit.edu/projects/376656449/?fbclid=IwAR3XUF_iUswPuIydgZB9AUVfLElFHxgPIxsDwQOmD3vjI3FoMBXjuPupYDE</td>
     <td class="tg-yw4l">Interactive simulation of curve flattening with social distancing</td>
+    <td class="tg-yw4l">https://scratch.mit.edu/projects/376656449/?fbclid=IwAR3XUF_iUswPuIydgZB9AUVfLElFHxgPIxsDwQOmD3vjI3FoMBXjuPupYDE</td>
   </tr>
   <tr>
     <td class="tg-yw4l">   </td>
