@@ -11,27 +11,38 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
   
 ## Article Compilation
 
+Click on the title to be redirected to its corresponding article.
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Source</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Link</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Epidemic Simulation</td>
+    <td class="tg-yw4l">
+      <a href="https://scratch.mit.edu/projects/376656449/?fbclid=IwAR3XUF_iUswPuIydgZB9AUVfLElFHxgPIxsDwQOmD3vjI3FoMBXjuPupYDE<">
+        <div style="height:100%;width:100%">
+          Epidemic Simulation
+        </div>
+      </a>
+    </td>
     <td class="tg-yw4l">Mitch Resnick, Professor of Learning Research at MIT Media Lab, PhD in Computer Science</td>
     <td class="tg-yw4l">Interactive simulation of curve flattening with social distancing</td>
-    <td class="tg-yw4l">https://scratch.mit.edu/projects/376656449/?fbclid=IwAR3XUF_iUswPuIydgZB9AUVfLElFHxgPIxsDwQOmD3vjI3FoMBXjuPupYDE</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve</td>
+    <td class="tg-yw4l">
+      <a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR1TUSfRZlzZzDTImeptdU7LKcSNPsz3_rVfBjuYWbxiRneDdO1oOhsKj7Q">
+        <div style="height:100%;width:100%">
+          Why outbreaks like coronavirus spread exponentially, and how to "flatten the curve"
+        </div>
+      </a>
+    </td>
     <td class="tg-yw4l">Washington Post, Harry Stevens, Graphics reporter, MS in Journalism</td>
     <td class="tg-yw4l">An intutitive animated demonstration of disease spread and flattening the curve</td>
-    <td class="tg-yw4l">https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR1TUSfRZlzZzDTImeptdU7LKcSNPsz3_rVfBjuYWbxiRneDdO1oOhsKj7Q</td>
+    </td>
   </tr>
   <tr>
-    <td class="tg-yw4l">   </td>
     <td class="tg-yw4l">   </td>
     <td class="tg-yw4l">   </td>
     <td class="tg-yw4l">   </td>
