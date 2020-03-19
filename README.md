@@ -19,7 +19,7 @@ Click on the title to be redirected to its corresponding article.
 
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Article</b></th>
     <th class="tg-yw4l"><b>Source</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
   </tr>
