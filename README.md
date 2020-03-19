@@ -77,5 +77,18 @@ Click on the title to be redirected to its corresponding article.
     <td class="tg-yw4l">A seminal report on COVID-19's impact. Includes estimates of mortality rates in the U.S. and the U.K. in the absence of control measures. </td>
     </td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">
+      <a href="https://www.imperial.ac.uk/news/196234/covid19-imperial-researchers-model-likely-impact/">
+        <div style="height:100%;width:100%">
+          COVID-19: Imperial researchers model likely impact of public health measures
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l"> Imperial College (UK), Dr. Sabine L. van Elsland, School of Public Health, and Ryan O'Hare,
+Communications and Public Affairs </td>
+    <td class="tg-yw4l">A news post that includes a summary of key results from Imperial's report "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand"</td>
+    </td>
+  </tr>
 </table>
 
