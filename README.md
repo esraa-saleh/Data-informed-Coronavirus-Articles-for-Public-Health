@@ -65,5 +65,17 @@ Click on the title to be redirected to its corresponding article.
     <td class="tg-yw4l">Introduces and gives a link to an interactive tool to help visualize the impact of social distancing</td>
     </td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">
+      <a href="https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf">
+        <div style="height:100%;width:100%">
+          Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l"> Imperial College (UK) COVID-19 Response Team. Correspondent is Professor of Mathematical Biology Dr. Neil Ferguson from the Faculty of Medicine, School of Public Health, specializing in epidemiological factors and population dynamics playing a role in infectious disease spread </td>
+    <td class="tg-yw4l">A seminal report on COVID-19's impact. Includes estimates of mortality rates in the U.S. and the U.K. in the absence of control measures. </td>
+    </td>
+  </tr>
 </table>
 
