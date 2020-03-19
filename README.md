@@ -18,7 +18,7 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
   2) Your feedback on each article adressed
   
   I'll do whatever is within my capacity to ensure that sources and author credentials are explicitly written and accurate.
-  If a major issue arises with an article, I'll pull it out temporarily and try to seek the help of experts (i.e. specialized researchers) as well as the open source scientific community. 
+  If a major issue arises with an article, I'll pull it out temporarily and try to seek the help of experts (i.e. specialized researchers) as well as the open source scientific community to assess the situation. 
   
 ## Article Compilation
 
