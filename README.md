@@ -13,6 +13,13 @@ A compilation of data-informed articles on the novel coronavirus, focusing on im
   You may simply write up the items above in a pull request in plain text. You could also open an issue and request 
   the addition of an article.
   
+  To give feedback on article selection (for example, if you believe an article is unreliable), please submit an issue and specify:
+  1) The name(s) of the article(s) adressed
+  2) Your feedback on each article adressed
+  
+  I'll do whatever is within my capacity to ensure that sources and author credentials are explicitly written and accurate.
+  If a major issue arises with an article, I'll pull it out temporarily and try to seek the help of experts (i.e. specialized researchers) as well as the open source scientific community. 
+  
 ## Article Compilation
 
 Click on the title to be redirected to its corresponding article.
