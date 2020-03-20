@@ -90,5 +90,18 @@ Communications and Public Affairs </td>
     <td class="tg-yw4l">A news post that includes a summary of key results from Imperial's report "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand"</td>
     </td>
   </tr>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">
+      <a href="https://www.nature.com/articles/d41586-020-00758-2">
+        <div style="height:100%;width:100%">
+          The coronavirus pandemic in five powerful charts
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l">Nature Research Blog. Ewen Callaway (Locum Bureau Chief, MSc in Microbiology), David Cyranoski (Asia-Pacific Correspondent, MA in History of Science and History of Japan), Smriti Mallapaty (Senior Editor, MSc in Environmental Technology), Emma Stoye (News Editor, BA in Biological Sciences) & Jeff Tollefson (Senior U.S. Correspondent, BA French) </td>
+    <td class="tg-yw4l">An article sharing charts on coronavirus spread, comparison with other diseases, speed of related research publishing, travel restrictions effect on carbon emissions, and a comparison with the SARS outbreak </td>
+    </td>
+  </tr>
 </table>
 
