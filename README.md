@@ -103,5 +103,17 @@ Communications and Public Affairs </td>
     <td class="tg-yw4l">An article sharing charts on coronavirus spread, comparison with other diseases, speed of related research publishing, travel restrictions effect on carbon emissions, and a comparison with the SARS outbreak </td>
     </td>
   </tr>
+     <tr>
+    <td class="tg-yw4l">
+      <a href="https://www.bbc.com/news/world-51235105">
+        <div style="height:100%;width:100%">
+          Coronavirus: A visual guide to the pandemic
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l">The Visual and Data Journalism Team at the BBC (No information given on who is on the team and their credentials, but the results they have seems to be in-line with other sources deemed reliable.)</td>
+    <td class="tg-yw4l">Contains visual animations of coronavirus cases, recoveries and deaths. Includes some comparisons between countries. </td>
+    </td>
+  </tr>
 </table>
 
