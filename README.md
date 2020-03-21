@@ -115,5 +115,18 @@ Communications and Public Affairs </td>
     <td class="tg-yw4l">Contains visual animations of coronavirus cases, recoveries and deaths. Includes some comparisons between countries. </td>
     </td>
   </tr>
+    </tr>
+     <tr>
+    <td class="tg-yw4l">
+      <a href="https://news.mit.edu/2020/slow-epidemic-airport-handwashing-0206">
+        <div style="height:100%;width:100%">
+          Study: To slow an epidemic, focus on handwashing
+        </div>
+      </a>
+    </td>
+    <td class="tg-yw4l">MIT News. David L.Chandler, Science Writer. (could not get information on author credentials, but everything reported here is based on a published research article)</td>
+    <td class="tg-yw4l">An article demonstrating the impact of handwashing and its role in preventing disease spread. The research article this is based on is "Hand‐Hygiene Mitigation Strategies Against Global Disease Spreading through the Air Transportation Network"</td>
+    </td>
+  </tr>
 </table>
 
